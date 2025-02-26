@@ -39,23 +39,53 @@ public class Assignment2 {
 
 		String [][][] gradStats = { 
 									{ 
-										{"Semester", "Sem1", "Marks"}, {"Subject1", "Mathematics-I", "78"}, {"Subject2", "Physics", "85"}, {"Subject3", "Chemistry", "91"}, {"Subject4", "Computer Programming", "74"}, {"Subject5", "Engineering Drawing", "88"}, {"Subject6", "Basic Electrical Eng.", "79"}
+										{"Semester", "Sem1", "Marks"}, 
+										{"Subject1", "Mathematics-I", "78"}, 
+										{"Subject2", "Physics", "85"}, 
+										{"Subject3", "Chemistry", "91"}, 
+										{"Subject4", "Computer Programming", "74"}, 
+										{"Subject5", "Engineering Drawing", "88"}, 
+										{"Subject6", "Basic Electrical Eng.", "79"}
 										
 									},
 									{ 
-										{"Semester", "Sem2", "Marks"}, {"Subject1", "Mathematics-II", "82"}, {"Subject2", "Mechanics", "77"}, {"Subject3", "Environmental Sci.", "93"}, {"Subject4", "Basic Electronics Engg.", "69"}, {"Subject5", "Physics", "84"}, {"Subject6", "Engineering Graphics", "90"}
+										{"Semester", "Sem2", "Marks"}, 
+										{"Subject1", "Mathematics-II", "82"}, 
+										{"Subject2", "Mechanics", "77"}, 
+										{"Subject3", "Environmental Sci.", "93"}, 
+										{"Subject4", "Basic Electronics Engg.", "69"}, 
+										{"Subject5", "Physics", "84"}, 
+										{"Subject6", "Engineering Graphics", "90"}
 										
 									},
 									{ 
-										{"Semester", "Sem2", "Marks"}, {"Subject1", "DataStructuresDiscrete", "88"}, {"Subject2", "Mathematics", "81"}, {"Subject3", "Digital", "76"}, {"Subject4", "Signals and Systems", "85"}, {"Subject5", "Physics", "84"}, {"Subject6", "Object-Oriented Prog.", "78"}
+										{"Semester", "Sem2", "Marks"}, 
+										{"Subject1", "DataStructuresDiscrete", "88"}, 
+										{"Subject2", "Mathematics", "81"}, 
+										{"Subject3", "Digital", "76"}, 
+										{"Subject4", "Signals and Systems", "85"}, 
+										{"Subject5", "Physics", "84"}, 
+										{"Subject6", "Object-Oriented Prog.", "78"}
 										
 									},
 									{ 
-										{"Semester", "Sem2", "Marks"}, {"Subject1", "Algorithms Computer", "91"}, {"Subject2", "Networks", "73"}, {"Subject3", "Database", "89"}, {"Subject4", "SystemsMicroprocessors", "80"}, {"Subject5", "Communication Eng.", "86"}, {"Subject6", "Software Engineering", "87"}
+										{"Semester", "Sem2", "Marks"}, 
+										{"Subject1", "Algorithms Computer", "91"}, 
+										{"Subject2", "Networks", "73"}, 
+										{"Subject3", "Database", "89"}, 
+										{"Subject4", "SystemsMicroprocessors", "80"}, 
+										{"Subject5", "Communication Eng.", "86"}, 
+										{"Subject6", "Software Engineering", "87"}
 										
 									},
 									{ 
-										{"Semester", "Sem2", "Marks"}, {"Subject1", "Probability & Stats.", "86"}, {"Subject2", "Machine Learning", "88"}, {"Subject3", "Compiler Design", "84"}, {"Subject4", "Theory of Computation", "95"}, {"Subject5", "Embedded Systems", "73"}, {"Subject6", "Computer Graphics", "90"}
+										{"Semester", "Sem2", "Marks"}, 
+										{"Subject1", "Probability & Stats.", "86"}, 
+										{"Subject2", "Machine Learning", "88"}, 
+										{"Subject3", "Compiler Design", "84"}, 
+										{"Subject4", "Theory of Computation", "95"}, 
+										{"Subject5", "Embedded Systems", "73"}, 
+										{"Subject6", "Computer Graphics", "90"}
 										
 									}
 									
